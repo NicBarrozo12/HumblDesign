@@ -1,0 +1,6 @@
+{
+  "name": "Aura Design Agency",
+  "description": "A high-converting, single-page agency portfolio website for Aura Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
